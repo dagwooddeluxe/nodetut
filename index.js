@@ -2,7 +2,7 @@ var express = require('express');
 var socket = require('socket.io');
 var http = require('http');
 var hostname = 'localhost';
-var port = 32327;
+var port = 37372;
 
 
 //App setup
